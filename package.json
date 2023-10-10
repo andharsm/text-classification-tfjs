@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^4.11.0",
+    "natural": "^6.7.2",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "sastrawijs": "^1.0.4",
+    "stopwords": "^0.0.9",
+    "stopwords-id": "^0.2.0"
   }
 }
