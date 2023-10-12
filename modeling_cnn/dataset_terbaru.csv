@@ -90,35 +90,24 @@ buka rapor,pergi rapor
 open rapor,pergi rapor
 kembali rapor,pergi rapor
 menuju rapor,pergi rapor
-menuju hasil kelas,pergi rapor
-hasil kelas,pergi rapor
-arahkan hasil kelas,pergi rapor
-buka hasil kelas,pergi rapor
-kembali ke hasil kelas,pergi rapor
-menu hasil kelas,pergi rapor
-open hasil kelas,pergi rapor
-arahkan ke menu hasil kelas,pergi rapor
 arahkan ke rapor,pergi rapor
-buka hasil kelas,pergi rapor
 arahkan ke rapor,pergi rapor
 rapor,pergi rapor
 pergi ke rapor,pergi rapor
 kembali ke rapor,pergi rapor
-rapot,pergi rapor
 pergi ke rapot,pergi rapor
 kembali ke rapot,pergi rapor
-buka hasil kelas,pergi rapor
 Buka halaman peringkat.,pergi peringkat
 Menuju ke leaderboard.,pergi peringkat
 Akses ke halaman peringkat.,pergi peringkat
 Lihat peringkat saya.,pergi peringkat
 Tampilkan leaderboard.,pergi peringkat
-Cek peringkat saya.,pergi peringkat
 Buka leaderboard.,pergi peringkat
+masuk ke peringkat,pergi peringkat
+pilih peringkat,pergi peringkat
 Lihat peringkat.,pergi peringkat
 Arahkan ke halaman peringkat.,pergi peringkat
 Kunjungi leaderboard.,pergi peringkat
-Cek peringkat saya.,pergi peringkat
 Masuk ke leaderboard.,pergi peringkat
 Buka halaman peringkat situs.,pergi peringkat
 Lihat peringkat pengguna.,pergi peringkat
@@ -183,3 +172,109 @@ Segarkan halaman web.,muat ulang halaman
 Akses fitur load ulang.,muat ulang halaman
 Buka menu refresh.,muat ulang halaman
 Perbarui tampilan situs.,muat ulang halaman
+cari semua kelas,cari semua kelas
+ada kelas apa saja,cari semua kelas
+tampilkan semua kelas,cari semua kelas
+lihat semua kelas,cari semua kelas
+tampilkan kelas yang tersedia,cari semua kelas
+lihat kelas yang tersedia,cari semua kelas
+cari kelas yang tersedia,cari semua kelas
+cari semua kelas mudah,cari kelas mudah
+ada kelas apa saja mudah,cari kelas mudah
+tampilkan semua kelas  mudah,cari kelas mudah
+lihat semua kelas  mudah,cari kelas mudah
+tampilkan kelas yang tersedia mudah,cari kelas mudah
+lihat kelas yang tersedia mudah,cari kelas mudah
+cari kelas yang tersedia mudah,cari kelas mudah
+cari semua kelas normal,cari kelas normal
+ada kelas apa saja normal,cari kelas normal
+tampilkan semua kelas  normal,cari kelas normal
+lihat semua kelas  normal,cari kelas normal
+tampilkan kelas yang tersedia normal,cari kelas normal
+lihat kelas yang tersedia normal,cari kelas normal
+cari kelas yang tersedia normal,cari kelas normal
+cari semua kelas sulit,cari kelas sulit
+ada kelas apa saja sulit,cari kelas sulit
+tampilkan semua kelas  sulit,cari kelas sulit
+lihat semua kelas  sulit,cari kelas sulit
+tampilkan kelas yang tersedia sulit,cari kelas sulit
+lihat kelas yang tersedia sulit,cari kelas sulit
+cari kelas yang tersedia sulit,cari kelas sulit
+sebutkan kelas,sebutkan kelas
+jelaskan kelas,sebutkan kelas
+ada berapa kelas,jumlah kelas
+total kelas,jumlah kelas
+total jumlah kelas,jumlah kelas
+berapa kelas tersedia,jumlah kelas
+mohon ulangi soal,ulangi soal
+ulangi soal,ulangi soal
+tolong ulangi soal,ulangi soal
+ulangi pertanyaan,ulangi soal
+tolong ulangi pertanyaan,ulangi soal
+mohon ulangi pertanyaan,ulangi soal
+bisa diulangi,ulangi soal
+tolonh ulangi,ulangi soal
+tolong diulang,ulangi soal
+pilih a,pilih a
+jawab a,pilih a
+pilih opsi a,pilih a
+saya memilih a,pilih a
+saya pilih a,pilih a
+a,pilih a
+pilih b,pilih b
+jawab b,pilih b
+pilih opsi b,pilih b
+saya memilih b,pilih b
+saya pilih b,pilih b
+b,pilih b
+pilih c,pilih c
+jawab c,pilih c
+pilih opsi c,pilih c
+saya memilih c,pilih c
+saya pilih c,pilih c
+c,pilih c
+buka kuis,kerjakan kuis
+mulai kuis,kerjakan kuis
+lanjut kuis,kerjakan kuis
+lanjut kerjakan kuis,kerjakan kuis
+saya ingin memulai kuis,kerjakan kuis
+saya ingin mengerjakan kuis,kerjakan kuis
+kerjakan kuis,kerjakan kuis
+hentikan kuis,hentikan kuis
+tutup kuis,hentikan kuis
+akhiri kuis,hentikan kuis
+pilih materi yang sekarang,pilih materi sekarang
+pilih materi yang berjalan,pilih materi sekarang
+pilih materi terakhir,pilih materi sekarang
+buka materi yang sekarang,pilih materi sekarang
+buka materi yang berjalan,pilih materi sekarang
+buka materi yang terakhir,pilih materi sekarang
+lihat materi sekarang,pilih materi sekarang
+lihat materi terakhir,pilih materi sekarang
+lihat materi yang berjalan,pilih materi sekarang
+cari kelas selesai,cari kelas selesai
+apa saja kelas yang sudah selesai,cari kelas selesai
+saya sudah menyelesaikan kelas apa saja,cari kelas selesai
+tampilkan kelas yang sudah selesai,cari kelas selesai
+lihat kelas yang sudah selesai,cari kelas selesai
+cari kelas berjalan,cari kelas berjalan
+apa saja kelas yang masih berjalan,cari kelas berjalan
+saya masih ikut kelas apa saja,cari kelas berjalan
+tampilkan kelas yang masih berjalan,cari kelas berjalan
+lihat kelas yang masih berjalan,cari kelas berjalan
+apa saja kelas yang belum selesai,cari kelas berjalan
+tampilkan kelas yang belum selesai,cari kelas berjalan
+lihat kelas yang belum selesai,cari kelas berjalan
+cek peringkat saya,peringkat saya
+lihat peringkat saya,peringkat saya
+saya peringkat berapa,peringkat saya
+saya ingin tahu peringkat saya,peringkat saya
+posisi peringkat saya,peringkat saya
+beritahu peringkat saya,peringkat saya
+jelaskan peringkat saya,peringkat saya
+tampilkan peringkat saya,peringkat saya
+bacakan peringkat saya,peringkat saya
+cetak sertifikat,cetak sertifikat
+download sertifikat,cetak sertifikat
+unduh sertifikat,cetak sertifikat
+simpan sertifikat,cetak sertifikat
