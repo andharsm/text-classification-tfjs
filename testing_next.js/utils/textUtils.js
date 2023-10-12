@@ -38,6 +38,13 @@ const specialStemmingRules = {
   'muat ulang': 'refresh',
   'reload': 'refresh',
   'segarkan': 'refresh',
+  'hentikan': 'henti',
+  'berjalan': 'jalan',
+  'ulangi': 'ulang',
+  'pertanyaan': 'tanya',
+  'merefresh': 'refresh',
+  'sebutkan': 'sebut',
+  'jelaskan': 'jelas',
   // tambahkan aturan khusus lainnya di sini jika diperlukan
 };
 
