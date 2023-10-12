@@ -1,6 +1,6 @@
 // utils/textUtils.js
 import { Stemmer } from 'sastrawijs';
-import stopwordsIndonesia from 'D:/Kuliah/Voice See/teks-klasifikasi/utils/stopwords_indonesia.json';
+import stopwordsIndonesia from '../utils/stopwords_indonesia.json';
 
 
 export const punctuationRemoval = (text) => {
@@ -20,6 +20,9 @@ export const punctuationRemoval = (text) => {
 };
 // Definisikan kata-kata yang perlu di-handle secara spesifik
 const specialStemmingRules = {
+  'a': 'aaa',
+  'b': 'bbb',
+  'c': 'ccc',
   'di mana': 'dimana',
   'dimana': 'mana', 
   'home': 'beranda',
@@ -43,7 +46,8 @@ export const stemming = (text) => {
 
   // Handle special cases
   Object.keys(specialStemmingRules).forEach((rule) => {
-    text = text.replace(new RegExp(rule, 'gi'), specialStemmingRules[rule]);
+    const regex = new RegExp(`\\b${rule}\\b`, 'gi');
+    text = text.replace(regex, specialStemmingRules[rule]);
   });
 
   // Gunakan Sastrawi untuk stemming sisa kata-kata
